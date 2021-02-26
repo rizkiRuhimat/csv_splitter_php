@@ -1,0 +1,301 @@
+2021-02-25 23:09:54 SYSTEM          ===========================================================================
+2021-02-25 23:09:54 SYSTEM          -------------------------------------------------
+2021-02-25 23:09:54 FINISH          SPLIT FILE START
+2021-02-25 23:09:54 SYSTEM          Read incoming directory
+2021-02-25 23:09:54 SYSTEM          File Name: AIASMS_20201027_1350.csv
+2021-02-25 23:09:54 SYSTEM          File Size: 11,527 KB
+2021-02-25 23:09:54 START           ===== Start Spliting file: AIASMS_20201027_1350.csv =====
+2021-02-25 23:09:54 PROCESS         file splited name: AIASMS_20201027_1350_1.csv
+2021-02-25 23:09:54 PROCESS         file splited size: 432 KB
+2021-02-25 23:09:54 PROCESS         file splited name: AIASMS_20201027_1350_2.csv
+2021-02-25 23:09:54 PROCESS         file splited size: 426 KB
+2021-02-25 23:09:54 PROCESS         file splited name: AIASMS_20201027_1350_3.csv
+2021-02-25 23:09:54 PROCESS         file splited size: 426 KB
+2021-02-25 23:09:54 PROCESS         file splited name: AIASMS_20201027_1350_4.csv
+2021-02-25 23:09:54 PROCESS         file splited size: 426 KB
+2021-02-25 23:09:54 PROCESS         file splited name: AIASMS_20201027_1350_5.csv
+2021-02-25 23:09:54 PROCESS         file splited size: 426 KB
+2021-02-25 23:09:54 PROCESS         file splited name: AIASMS_20201027_1350_6.csv
+2021-02-25 23:09:54 PROCESS         file splited size: 426 KB
+2021-02-25 23:09:54 PROCESS         file splited name: AIASMS_20201027_1350_7.csv
+2021-02-25 23:09:54 PROCESS         file splited size: 426 KB
+2021-02-25 23:09:54 PROCESS         file splited name: AIASMS_20201027_1350_8.csv
+2021-02-25 23:09:54 PROCESS         file splited size: 426 KB
+2021-02-25 23:09:54 PROCESS         file splited name: AIASMS_20201027_1350_9.csv
+2021-02-25 23:09:54 PROCESS         file splited size: 426 KB
+2021-02-25 23:09:54 PROCESS         file splited name: AIASMS_20201027_1350_10.csv
+2021-02-25 23:09:54 PROCESS         file splited size: 426 KB
+2021-02-25 23:09:54 PROCESS         file splited name: AIASMS_20201027_1350_11.csv
+2021-02-25 23:09:54 PROCESS         file splited size: 426 KB
+2021-02-25 23:09:54 PROCESS         file splited name: AIASMS_20201027_1350_12.csv
+2021-02-25 23:09:54 PROCESS         file splited size: 426 KB
+2021-02-25 23:09:54 PROCESS         file splited name: AIASMS_20201027_1350_13.csv
+2021-02-25 23:09:54 PROCESS         file splited size: 426 KB
+2021-02-25 23:09:54 PROCESS         file splited name: AIASMS_20201027_1350_14.csv
+2021-02-25 23:09:54 PROCESS         file splited size: 426 KB
+2021-02-25 23:09:54 PROCESS         file splited name: AIASMS_20201027_1350_15.csv
+2021-02-25 23:09:54 PROCESS         file splited size: 426 KB
+2021-02-25 23:09:54 PROCESS         file splited name: AIASMS_20201027_1350_16.csv
+2021-02-25 23:09:54 PROCESS         file splited size: 426 KB
+2021-02-25 23:09:54 PROCESS         file splited name: AIASMS_20201027_1350_17.csv
+2021-02-25 23:09:54 PROCESS         file splited size: 426 KB
+2021-02-25 23:09:54 PROCESS         file splited name: AIASMS_20201027_1350_18.csv
+2021-02-25 23:09:54 PROCESS         file splited size: 426 KB
+2021-02-25 23:09:54 PROCESS         file splited name: AIASMS_20201027_1350_19.csv
+2021-02-25 23:09:54 PROCESS         file splited size: 426 KB
+2021-02-25 23:09:54 PROCESS         file splited name: AIASMS_20201027_1350_20.csv
+2021-02-25 23:09:54 PROCESS         file splited size: 426 KB
+2021-02-25 23:09:54 PROCESS         file splited name: AIASMS_20201027_1350_21.csv
+2021-02-25 23:09:54 PROCESS         file splited size: 426 KB
+2021-02-25 23:09:54 PROCESS         file splited name: AIASMS_20201027_1350_22.csv
+2021-02-25 23:09:54 PROCESS         file splited size: 426 KB
+2021-02-25 23:09:54 PROCESS         file splited name: AIASMS_20201027_1350_23.csv
+2021-02-25 23:09:54 PROCESS         file splited size: 426 KB
+2021-02-25 23:09:54 PROCESS         file splited name: AIASMS_20201027_1350_24.csv
+2021-02-25 23:09:54 PROCESS         file splited size: 426 KB
+2021-02-25 23:09:54 PROCESS         file splited name: AIASMS_20201027_1350_25.csv
+2021-02-25 23:09:54 PROCESS         file splited size: 426 KB
+2021-02-25 23:09:54 PROCESS         file splited name: AIASMS_20201027_1350_26.csv
+2021-02-25 23:09:54 PROCESS         file splited size: 426 KB
+2021-02-25 23:09:54 PROCESS         file splited name: AIASMS_20201027_1350_27.csv
+2021-02-25 23:09:54 PROCESS         file splited size: 426 KB
+2021-02-25 23:09:54 PROCESS         file splited name: AIASMS_20201027_1350_28.csv
+2021-02-25 23:09:54 PROCESS         file splited size: 32 KB
+2021-02-25 23:09:54 SYSTEM          files AIASMS_20201027_1350.csv moved to folder backup!
+2021-02-25 23:09:54 FINISH          ===== Done Spliting file: AIASMS_20201027_1350.csv, into 29 files =====
+2021-02-25 23:09:54 FINISH          SPLIT FILE FINISH
+2021-02-25 23:09:54 SYSTEM          -------------------------------------------------
+2021-02-25 23:16:12 SYSTEM          ===========================================================================
+2021-02-25 23:16:12 SYSTEM          -------------------------------------------------
+2021-02-25 23:16:12 FINISH          SPLIT FILE START
+2021-02-25 23:16:12 SYSTEM          Read incoming directory
+2021-02-25 23:16:12 SYSTEM          File Name: SMS Blast AKSES.csv
+2021-02-25 23:16:12 SYSTEM          File Size: 5,784 KB
+2021-02-25 23:16:12 START           ===== Start Spliting file: SMS Blast AKSES.csv =====
+2021-02-25 23:16:12 PROCESS         file splited name: SMS Blast AKSES_1.csv
+2021-02-25 23:16:12 PROCESS         file splited size: 428 KB
+2021-02-25 23:16:12 PROCESS         file splited name: SMS Blast AKSES_2.csv
+2021-02-25 23:16:12 PROCESS         file splited size: 428 KB
+2021-02-25 23:16:12 PROCESS         file splited name: SMS Blast AKSES_3.csv
+2021-02-25 23:16:12 PROCESS         file splited size: 428 KB
+2021-02-25 23:16:12 PROCESS         file splited name: SMS Blast AKSES_4.csv
+2021-02-25 23:16:12 PROCESS         file splited size: 428 KB
+2021-02-25 23:16:12 PROCESS         file splited name: SMS Blast AKSES_5.csv
+2021-02-25 23:16:12 PROCESS         file splited size: 428 KB
+2021-02-25 23:16:12 PROCESS         file splited name: SMS Blast AKSES_6.csv
+2021-02-25 23:16:12 PROCESS         file splited size: 428 KB
+2021-02-25 23:16:12 PROCESS         file splited name: SMS Blast AKSES_7.csv
+2021-02-25 23:16:12 PROCESS         file splited size: 428 KB
+2021-02-25 23:16:12 PROCESS         file splited name: SMS Blast AKSES_8.csv
+2021-02-25 23:16:12 PROCESS         file splited size: 428 KB
+2021-02-25 23:16:12 PROCESS         file splited name: SMS Blast AKSES_9.csv
+2021-02-25 23:16:12 PROCESS         file splited size: 428 KB
+2021-02-25 23:16:12 PROCESS         file splited name: SMS Blast AKSES_10.csv
+2021-02-25 23:16:12 PROCESS         file splited size: 428 KB
+2021-02-25 23:16:12 PROCESS         file splited name: SMS Blast AKSES_11.csv
+2021-02-25 23:16:12 PROCESS         file splited size: 429 KB
+2021-02-25 23:16:12 PROCESS         file splited name: SMS Blast AKSES_12.csv
+2021-02-25 23:16:12 PROCESS         file splited size: 429 KB
+2021-02-25 23:16:12 PROCESS         file splited name: SMS Blast AKSES_13.csv
+2021-02-25 23:16:12 PROCESS         file splited size: 429 KB
+2021-02-25 23:16:12 PROCESS         file splited name: SMS Blast AKSES_14.csv
+2021-02-25 23:16:12 PROCESS         file splited size: 224 KB
+2021-02-25 23:16:12 SYSTEM          files SMS Blast AKSES.csv moved to folder backup!
+2021-02-25 23:16:12 FINISH          ===== Done Spliting file: SMS Blast AKSES.csv, into 15 files =====
+2021-02-25 23:16:12 FINISH          SPLIT FILE FINISH
+2021-02-25 23:16:12 SYSTEM          -------------------------------------------------
+2021-02-25 23:19:44 SYSTEM          ===========================================================================
+2021-02-25 23:19:44 SYSTEM          -------------------------------------------------
+2021-02-25 23:19:44 FINISH          SPLIT FILE START
+2021-02-25 23:19:44 SYSTEM          Read incoming directory
+2021-02-25 23:19:44 SYSTEM          File Name: SMS Blast AKSES.csv
+2021-02-25 23:19:44 SYSTEM          File Size: 5,784 KB
+2021-02-25 23:19:44 START           ===== Start Spliting file: SMS Blast AKSES.csv =====
+2021-02-25 23:19:44 PROCESS         file splited name: SMS Blast AKSES_1.csv
+2021-02-25 23:19:44 PROCESS         file splited size: 428 KB
+2021-02-25 23:19:44 PROCESS         file splited name: SMS Blast AKSES_2.csv
+2021-02-25 23:19:44 PROCESS         file splited size: 428 KB
+2021-02-25 23:19:44 PROCESS         file splited name: SMS Blast AKSES_3.csv
+2021-02-25 23:19:44 PROCESS         file splited size: 428 KB
+2021-02-25 23:19:44 PROCESS         file splited name: SMS Blast AKSES_4.csv
+2021-02-25 23:19:44 PROCESS         file splited size: 428 KB
+2021-02-25 23:19:44 PROCESS         file splited name: SMS Blast AKSES_5.csv
+2021-02-25 23:19:44 PROCESS         file splited size: 428 KB
+2021-02-25 23:19:44 PROCESS         file splited name: SMS Blast AKSES_6.csv
+2021-02-25 23:19:44 PROCESS         file splited size: 428 KB
+2021-02-25 23:19:44 PROCESS         file splited name: SMS Blast AKSES_7.csv
+2021-02-25 23:19:44 PROCESS         file splited size: 428 KB
+2021-02-25 23:19:44 PROCESS         file splited name: SMS Blast AKSES_8.csv
+2021-02-25 23:19:44 PROCESS         file splited size: 428 KB
+2021-02-25 23:19:44 PROCESS         file splited name: SMS Blast AKSES_9.csv
+2021-02-25 23:19:44 PROCESS         file splited size: 428 KB
+2021-02-25 23:19:44 PROCESS         file splited name: SMS Blast AKSES_10.csv
+2021-02-25 23:19:44 PROCESS         file splited size: 428 KB
+2021-02-25 23:19:44 PROCESS         file splited name: SMS Blast AKSES_11.csv
+2021-02-25 23:19:44 PROCESS         file splited size: 429 KB
+2021-02-25 23:19:44 PROCESS         file splited name: SMS Blast AKSES_12.csv
+2021-02-25 23:19:44 PROCESS         file splited size: 429 KB
+2021-02-25 23:19:44 PROCESS         file splited name: SMS Blast AKSES_13.csv
+2021-02-25 23:19:44 PROCESS         file splited size: 429 KB
+2021-02-25 23:19:44 PROCESS         file splited name: SMS Blast AKSES_14.csv
+2021-02-25 23:19:44 PROCESS         file splited size: 224 KB
+2021-02-25 23:19:44 SYSTEM          files SMS Blast AKSES.csv moved to folder backup!
+2021-02-25 23:19:44 FINISH          ===== Done Spliting file: SMS Blast AKSES.csv, into 15 files =====
+2021-02-25 23:19:44 FINISH          SPLIT FILE FINISH
+2021-02-25 23:19:44 SYSTEM          -------------------------------------------------
+2021-02-25 23:23:38 SYSTEM          ===========================================================================
+2021-02-25 23:23:38 SYSTEM          -------------------------------------------------
+2021-02-25 23:23:38 FINISH          SPLIT FILE START
+2021-02-25 23:23:38 SYSTEM          Read incoming directory
+2021-02-25 23:23:38 SYSTEM          File Name: SMS Blast AKSES.csv
+2021-02-25 23:23:38 SYSTEM          File Size: 5,784 KB
+2021-02-25 23:23:38 START           ===== Start Spliting file: SMS Blast AKSES.csv =====
+2021-02-25 23:23:38 PROCESS         file splited name: SMS Blast AKSES_1.csv
+2021-02-25 23:23:38 PROCESS         file splited size: 428 KB
+2021-02-25 23:23:38 PROCESS         file splited name: SMS Blast AKSES_2.csv
+2021-02-25 23:23:38 PROCESS         file splited size: 428 KB
+2021-02-25 23:23:38 PROCESS         file splited name: SMS Blast AKSES_3.csv
+2021-02-25 23:23:38 PROCESS         file splited size: 428 KB
+2021-02-25 23:23:38 PROCESS         file splited name: SMS Blast AKSES_4.csv
+2021-02-25 23:23:39 PROCESS         file splited size: 428 KB
+2021-02-25 23:23:39 PROCESS         file splited name: SMS Blast AKSES_5.csv
+2021-02-25 23:23:39 PROCESS         file splited size: 428 KB
+2021-02-25 23:23:39 PROCESS         file splited name: SMS Blast AKSES_6.csv
+2021-02-25 23:23:39 PROCESS         file splited size: 428 KB
+2021-02-25 23:23:39 PROCESS         file splited name: SMS Blast AKSES_7.csv
+2021-02-25 23:23:39 PROCESS         file splited size: 428 KB
+2021-02-25 23:23:39 PROCESS         file splited name: SMS Blast AKSES_8.csv
+2021-02-25 23:23:39 PROCESS         file splited size: 428 KB
+2021-02-25 23:23:39 PROCESS         file splited name: SMS Blast AKSES_9.csv
+2021-02-25 23:23:39 PROCESS         file splited size: 428 KB
+2021-02-25 23:23:39 PROCESS         file splited name: SMS Blast AKSES_10.csv
+2021-02-25 23:23:39 PROCESS         file splited size: 428 KB
+2021-02-25 23:23:39 PROCESS         file splited name: SMS Blast AKSES_11.csv
+2021-02-25 23:23:39 PROCESS         file splited size: 429 KB
+2021-02-25 23:23:39 PROCESS         file splited name: SMS Blast AKSES_12.csv
+2021-02-25 23:23:39 PROCESS         file splited size: 429 KB
+2021-02-25 23:23:39 PROCESS         file splited name: SMS Blast AKSES_13.csv
+2021-02-25 23:23:39 PROCESS         file splited size: 429 KB
+2021-02-25 23:23:39 PROCESS         file splited name: SMS Blast AKSES_14.csv
+2021-02-25 23:23:39 PROCESS         file splited size: 224 KB
+2021-02-25 23:23:39 SYSTEM          files SMS Blast AKSES.csv moved to folder backup!
+2021-02-25 23:23:39 FINISH          ===== Done Spliting file: SMS Blast AKSES.csv, into 15 files =====
+2021-02-25 23:23:39 FINISH          SPLIT FILE FINISH
+2021-02-25 23:23:39 SYSTEM          -------------------------------------------------
+2021-02-25 23:26:22 SYSTEM          ===========================================================================
+2021-02-25 23:26:22 SYSTEM          -------------------------------------------------
+2021-02-25 23:26:22 FINISH          SPLIT FILE START
+2021-02-25 23:26:22 SYSTEM          Read incoming directory
+2021-02-25 23:26:22 SYSTEM          File Name: SMS Blast AKSES.csv
+2021-02-25 23:26:22 SYSTEM          File Size: 5,784 KB
+2021-02-25 23:26:22 START           ===== Start Spliting file: SMS Blast AKSES.csv =====
+2021-02-25 23:26:22 PROCESS         file splited name: SMS Blast AKSES_0.csv
+2021-02-25 23:26:22 PROCESS         file splited size: 428 KB
+2021-02-25 23:26:22 PROCESS         file splited name: SMS Blast AKSES_1.csv
+2021-02-25 23:26:22 PROCESS         file splited size: 428 KB
+2021-02-25 23:26:22 PROCESS         file splited name: SMS Blast AKSES_2.csv
+2021-02-25 23:26:22 PROCESS         file splited size: 428 KB
+2021-02-25 23:26:22 PROCESS         file splited name: SMS Blast AKSES_3.csv
+2021-02-25 23:26:22 PROCESS         file splited size: 428 KB
+2021-02-25 23:26:22 PROCESS         file splited name: SMS Blast AKSES_4.csv
+2021-02-25 23:26:22 PROCESS         file splited size: 428 KB
+2021-02-25 23:26:22 PROCESS         file splited name: SMS Blast AKSES_5.csv
+2021-02-25 23:26:22 PROCESS         file splited size: 428 KB
+2021-02-25 23:26:22 PROCESS         file splited name: SMS Blast AKSES_6.csv
+2021-02-25 23:26:22 PROCESS         file splited size: 428 KB
+2021-02-25 23:26:22 PROCESS         file splited name: SMS Blast AKSES_7.csv
+2021-02-25 23:26:22 PROCESS         file splited size: 428 KB
+2021-02-25 23:26:22 PROCESS         file splited name: SMS Blast AKSES_8.csv
+2021-02-25 23:26:22 PROCESS         file splited size: 428 KB
+2021-02-25 23:26:22 PROCESS         file splited name: SMS Blast AKSES_9.csv
+2021-02-25 23:26:22 PROCESS         file splited size: 428 KB
+2021-02-25 23:26:22 PROCESS         file splited name: SMS Blast AKSES_10.csv
+2021-02-25 23:26:22 PROCESS         file splited size: 429 KB
+2021-02-25 23:26:22 PROCESS         file splited name: SMS Blast AKSES_11.csv
+2021-02-25 23:26:22 PROCESS         file splited size: 429 KB
+2021-02-25 23:26:22 PROCESS         file splited name: SMS Blast AKSES_12.csv
+2021-02-25 23:26:22 PROCESS         file splited size: 429 KB
+2021-02-25 23:26:22 PROCESS         file splited name: SMS Blast AKSES_13.csv
+2021-02-25 23:26:22 PROCESS         file splited size: 224 KB
+2021-02-25 23:26:22 SYSTEM          files SMS Blast AKSES.csv moved to folder backup!
+2021-02-25 23:26:22 FINISH          ===== Done Spliting file: SMS Blast AKSES.csv, into 14 files =====
+2021-02-25 23:26:22 FINISH          SPLIT FILE FINISH
+2021-02-25 23:26:22 SYSTEM          -------------------------------------------------
+2021-02-25 23:27:49 SYSTEM          ===========================================================================
+2021-02-25 23:27:49 SYSTEM          -------------------------------------------------
+2021-02-25 23:27:49 FINISH          SPLIT FILE START
+2021-02-25 23:27:49 SYSTEM          Read incoming directory
+2021-02-25 23:27:49 SYSTEM          File Name: SMS Blast AKSES.csv
+2021-02-25 23:27:49 SYSTEM          File Size: 5,784 KB
+2021-02-25 23:27:49 START           ===== Start Spliting file: SMS Blast AKSES.csv =====
+2021-02-25 23:27:49 PROCESS         file splited name: SMS Blast AKSES_2.csv
+2021-02-25 23:27:49 PROCESS         file splited size: 428 KB
+2021-02-25 23:27:49 PROCESS         file splited name: SMS Blast AKSES_3.csv
+2021-02-25 23:27:49 PROCESS         file splited size: 428 KB
+2021-02-25 23:27:49 PROCESS         file splited name: SMS Blast AKSES_4.csv
+2021-02-25 23:27:49 PROCESS         file splited size: 428 KB
+2021-02-25 23:27:49 PROCESS         file splited name: SMS Blast AKSES_5.csv
+2021-02-25 23:27:49 PROCESS         file splited size: 428 KB
+2021-02-25 23:27:49 PROCESS         file splited name: SMS Blast AKSES_6.csv
+2021-02-25 23:27:49 PROCESS         file splited size: 428 KB
+2021-02-25 23:27:49 PROCESS         file splited name: SMS Blast AKSES_7.csv
+2021-02-25 23:27:49 PROCESS         file splited size: 428 KB
+2021-02-25 23:27:49 PROCESS         file splited name: SMS Blast AKSES_8.csv
+2021-02-25 23:27:49 PROCESS         file splited size: 428 KB
+2021-02-25 23:27:49 PROCESS         file splited name: SMS Blast AKSES_9.csv
+2021-02-25 23:27:49 PROCESS         file splited size: 428 KB
+2021-02-25 23:27:49 PROCESS         file splited name: SMS Blast AKSES_10.csv
+2021-02-25 23:27:49 PROCESS         file splited size: 428 KB
+2021-02-25 23:27:49 PROCESS         file splited name: SMS Blast AKSES_11.csv
+2021-02-25 23:27:49 PROCESS         file splited size: 428 KB
+2021-02-25 23:27:49 PROCESS         file splited name: SMS Blast AKSES_12.csv
+2021-02-25 23:27:49 PROCESS         file splited size: 429 KB
+2021-02-25 23:27:49 PROCESS         file splited name: SMS Blast AKSES_13.csv
+2021-02-25 23:27:49 PROCESS         file splited size: 429 KB
+2021-02-25 23:27:49 PROCESS         file splited name: SMS Blast AKSES_14.csv
+2021-02-25 23:27:49 PROCESS         file splited size: 429 KB
+2021-02-25 23:27:49 PROCESS         file splited name: SMS Blast AKSES_15.csv
+2021-02-25 23:27:49 PROCESS         file splited size: 224 KB
+2021-02-25 23:27:49 SYSTEM          files SMS Blast AKSES.csv moved to folder backup!
+2021-02-25 23:27:49 FINISH          ===== Done Spliting file: SMS Blast AKSES.csv, into 15 files =====
+2021-02-25 23:27:49 FINISH          SPLIT FILE FINISH
+2021-02-25 23:27:49 SYSTEM          -------------------------------------------------
+2021-02-25 23:28:32 SYSTEM          ===========================================================================
+2021-02-25 23:28:32 SYSTEM          -------------------------------------------------
+2021-02-25 23:28:32 FINISH          SPLIT FILE START
+2021-02-25 23:28:32 SYSTEM          Read incoming directory
+2021-02-25 23:28:32 SYSTEM          File Name: SMS Blast AKSES.csv
+2021-02-25 23:28:32 SYSTEM          File Size: 5,784 KB
+2021-02-25 23:28:32 START           ===== Start Spliting file: SMS Blast AKSES.csv =====
+2021-02-25 23:28:32 PROCESS         file splited name: SMS Blast AKSES_1.csv
+2021-02-25 23:28:32 PROCESS         file splited size: 428 KB
+2021-02-25 23:28:32 PROCESS         file splited name: SMS Blast AKSES_2.csv
+2021-02-25 23:28:32 PROCESS         file splited size: 428 KB
+2021-02-25 23:28:32 PROCESS         file splited name: SMS Blast AKSES_3.csv
+2021-02-25 23:28:32 PROCESS         file splited size: 428 KB
+2021-02-25 23:28:32 PROCESS         file splited name: SMS Blast AKSES_4.csv
+2021-02-25 23:28:32 PROCESS         file splited size: 428 KB
+2021-02-25 23:28:32 PROCESS         file splited name: SMS Blast AKSES_5.csv
+2021-02-25 23:28:32 PROCESS         file splited size: 428 KB
+2021-02-25 23:28:32 PROCESS         file splited name: SMS Blast AKSES_6.csv
+2021-02-25 23:28:32 PROCESS         file splited size: 428 KB
+2021-02-25 23:28:32 PROCESS         file splited name: SMS Blast AKSES_7.csv
+2021-02-25 23:28:32 PROCESS         file splited size: 428 KB
+2021-02-25 23:28:32 PROCESS         file splited name: SMS Blast AKSES_8.csv
+2021-02-25 23:28:32 PROCESS         file splited size: 428 KB
+2021-02-25 23:28:32 PROCESS         file splited name: SMS Blast AKSES_9.csv
+2021-02-25 23:28:32 PROCESS         file splited size: 428 KB
+2021-02-25 23:28:32 PROCESS         file splited name: SMS Blast AKSES_10.csv
+2021-02-25 23:28:32 PROCESS         file splited size: 428 KB
+2021-02-25 23:28:32 PROCESS         file splited name: SMS Blast AKSES_11.csv
+2021-02-25 23:28:32 PROCESS         file splited size: 429 KB
+2021-02-25 23:28:32 PROCESS         file splited name: SMS Blast AKSES_12.csv
+2021-02-25 23:28:32 PROCESS         file splited size: 429 KB
+2021-02-25 23:28:32 PROCESS         file splited name: SMS Blast AKSES_13.csv
+2021-02-25 23:28:32 PROCESS         file splited size: 429 KB
+2021-02-25 23:28:32 PROCESS         file splited name: SMS Blast AKSES_14.csv
+2021-02-25 23:28:32 PROCESS         file splited size: 224 KB
+2021-02-25 23:28:32 SYSTEM          files SMS Blast AKSES.csv moved to folder backup!
+2021-02-25 23:28:32 FINISH          ===== Done Spliting file: SMS Blast AKSES.csv, into 14 files =====
+2021-02-25 23:28:32 FINISH          SPLIT FILE FINISH
+2021-02-25 23:28:32 SYSTEM          -------------------------------------------------
